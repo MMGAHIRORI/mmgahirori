@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main public pages -->
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://mmgahirori.netlify.app</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/gallery</loc>
+    <loc>https://mmgahirori.netlify.app/gallery</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/events</loc>
+    <loc>https://mmgahirori.netlify.app/events</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -24,14 +24,14 @@
   
   <!-- User authentication pages -->
   <url>
-    <loc>https://yourdomain.com/login</loc>
+    <loc>https://mmgahirori.netlify.app/login</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/admin-login</loc>
+    <loc>https://mmgahirori.netlify.app/admin-login</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -40,3 +40,4 @@
   <!-- Note: Protected routes like /dashboard, /admin/* are typically not included in public sitemaps -->
   <!-- as they require authentication and are not meant for public indexing -->
 </urlset>
+
